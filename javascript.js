@@ -1,1 +1,2 @@
-alert("Bruh")
+eval("eval(\"eval(\"alert(\"Bruh\")\")\")");
+
